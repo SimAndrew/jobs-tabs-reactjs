@@ -1,6 +1,7 @@
 ## Jobs Tabs
 
-### About: This project provides a user interface for managing jobs, allowing users to view jobs through a tabbed interface. It is built using HTML, CSS, and JavaScript.
+### About: 
+This project provides a user interface for managing jobs, allowing users to view jobs through a tabbed interface.
 
 You can try here: [jobs-tabs-reactjs.netlify.app](https://jobs-tabs-reactjs.netlify.app)
 
